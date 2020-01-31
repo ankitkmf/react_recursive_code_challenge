@@ -1,4 +1,3 @@
-In the project directory, you can run:
 ## Git steps
 git clone https://github.com/ankitkmf/react_recursive_code_challenge.git
 cd react_recursive_code_challenge
